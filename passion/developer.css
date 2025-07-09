@@ -1,4 +1,15 @@
 div{
 background-color: chartreuse;
 border: 10px solid black;
+border-radius: 6px;
+padding: 10px;
+ol{
+    color: darkorchid;
+}
+}
+h2{
+    background-color: aquamarine;
+    color: brown;
+
+    border: 6px dotted black;
 }
